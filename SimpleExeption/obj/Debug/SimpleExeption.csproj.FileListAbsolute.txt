@@ -1,0 +1,7 @@
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\bin\Debug\SimpleExeption.exe.config
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\bin\Debug\SimpleExeption.exe
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\bin\Debug\SimpleExeption.pdb
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\obj\Debug\SimpleExeption.csproj.AssemblyReference.cache
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\obj\Debug\SimpleExeption.csproj.CoreCompileInputs.cache
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\obj\Debug\SimpleExeption.exe
+D:\Users\Tigris\source\repos\SimpleExeption\SimpleExeption\obj\Debug\SimpleExeption.pdb
